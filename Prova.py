@@ -1,1 +1,1 @@
-print("Ciao, questo è il mio primo progetto PyCharm!")
+print("Ciao, ho modificato il mio primo progetto!")
